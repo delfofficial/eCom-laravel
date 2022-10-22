@@ -26,6 +26,32 @@
         height: 500px;
         padding-top: 100px;
     }
+    img.slider-img{
+        height: 200px !important;
+
+    }
+    .custom-product{
+        height: 600px;
+        margin-top: 50px;
+    }
+
+    .trending-img{
+        height: 100px;
+    }
+    .trending-item{
+        float: left;
+        width: 16.4%;
+    }
+    .trending-wrapper{
+        margin: 50px;
+    }
+    .detail{
+        height: 200px;
+
+    }
+    .search-box{
+        width: 500px !important;
+    }
 </style>
 
 </html>
